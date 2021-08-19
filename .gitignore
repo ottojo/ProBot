@@ -1,0 +1,15 @@
+.adehome
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.gitconfig
+.java/
+.local/
+.nv/
+.profile
+.ros/
+.rviz2/
+.ssh/
+

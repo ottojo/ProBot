@@ -1,0 +1,11 @@
+/tracking_camera/camera:
+  ros__parameters:
+    video_device: "/dev/video0"
+    framerate: 30.0
+    io_method: "mmap"
+    frame_id: "tracking_camera"
+    pixel_format: "mjpeg"
+    image_width: 1920
+    image_height: 1080
+    camera_name: "loetad_webcam"
+    camera_info_url: "package://probot_launch/config/camera_info.yaml"

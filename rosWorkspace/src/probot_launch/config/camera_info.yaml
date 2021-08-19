@@ -1,0 +1,20 @@
+image_width: 1920
+image_height: 1080
+camera_name: loetad_webcam
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [ 1383.751145071639, 0, 1104.352406306196, 0, 1378.698961108324, 661.8663478952149, 0, 0, 1 ]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [ 0.05576164538111176, -0.01567280209470638, 0.01861854359648359, -0.002446417538339936, 0.1304228902250324 ]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
