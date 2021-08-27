@@ -12,4 +12,8 @@
 .ros/
 .rviz2/
 .ssh/
+__pycache__/
+venv/
+.venv/
+.idea/
 
