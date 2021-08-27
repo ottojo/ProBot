@@ -1,3 +1,0 @@
-[submodule "rosWorkspace/src/usb_cam"]
-	path = rosWorkspace/src/usb_cam
-	url = git@github.com:ros-drivers/usb_cam.git
